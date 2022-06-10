@@ -55,7 +55,8 @@ If you find this repo useful, please cite our paper.
 ```
 
 ## Further Reading
-* Qingsong Wen, Tian Zhou, Chaoli Zhang, Weiqi Chen, Ziqing Ma, Junchi Yan, and Liang Sun. "Transformers in time series: A survey." arXiv preprint arXiv:2202.07125 (2022). [paper](https://arxiv.org/abs/2202.07125)
+* [Survey] Qingsong Wen, Tian Zhou, Chaoli Zhang, Weiqi Chen, Ziqing Ma, Junchi Yan, and Liang Sun. "Transformers in time series: A survey." arXiv preprint arXiv:2202.07125 (2022). [paper](https://arxiv.org/abs/2202.07125)
+* [Tutorial] Robust Time Series Analysis and Applications: An Industrial Perspective, in KDD 2022. [Link](https://qingsongedu.github.io/timeseries-tutorial-kdd-2022/)
 
 
 ## Contact
