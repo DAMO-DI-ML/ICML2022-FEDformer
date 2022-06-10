@@ -11,6 +11,8 @@ reduce prediction error by 14.8% and 22.6%
 for multivariate and univariate time series,
 respectively.
 
+This source code is also simultaneously updated in the [Repo](https://github.com/MAZiqing/FEDformer).
+
 ## Frequency Enhanced Attention
 |![Figure1](https://user-images.githubusercontent.com/44238026/171341166-5df0e915-d876-481b-9fbe-afdb2dc47507.png)|
 |:--:| 
