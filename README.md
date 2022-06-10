@@ -1,14 +1,11 @@
 # FEDformer (ICML 2022 paper)
 
-Tian Zhou, Ziqing Ma, Qingsong Wen, Xue Wang, Liang Sun, Rong Jin, "FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting," in Proc. 39th International Conference on Machine Learning (ICML 2022), Baltimore, Maryland, July 17-23, 2022
+* Tian Zhou, Ziqing Ma, Qingsong Wen, Xue Wang, Liang Sun, Rong Jin, "FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting," in Proc. 39th International Conference on Machine Learning (ICML 2022), Baltimore, Maryland, July 17-23, 2022. [[paper](https://arxiv.org/abs/2201.12740)]
 
 Frequency Enhanced Decomposed
 Transformer (FEDformer) is more efficient than
 standard Transformer with a linear complexity
-to the sequence length [[paper](https://arxiv.org/abs/2201.12740)]. 
-
-Our empirical studies
-with six benchmark datasets show that compared
+to the sequence length. Our empirical studies with six benchmark datasets show that compared
 with state-of-the-art methods, FEDformer can
 reduce prediction error by 14.8% and 22.6%
 for multivariate and univariate time series,
@@ -56,9 +53,7 @@ If you find this repo useful, please cite our paper.
 ```
 
 ## Further Reading
-Survey on Transformers in Time Series:
-
-Qingsong Wen, Tian Zhou, Chaoli Zhang, Weiqi Chen, Ziqing Ma, Junchi Yan, and Liang Sun. "Transformers in time series: A survey." arXiv preprint arXiv:2202.07125 (2022). [paper](https://arxiv.org/abs/2202.07125)
+* Qingsong Wen, Tian Zhou, Chaoli Zhang, Weiqi Chen, Ziqing Ma, Junchi Yan, and Liang Sun. "Transformers in time series: A survey." arXiv preprint arXiv:2202.07125 (2022). [paper](https://arxiv.org/abs/2202.07125)
 
 
 ## Contact
